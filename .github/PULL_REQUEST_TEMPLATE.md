@@ -1,10 +1,3 @@
----
-name: New Issue
-about: Fixing any issue
-title: '[Fix]: <add some descriptive text about the feature>'
-labels: issue
-assignees: gtrabanco
----
 <!---
 Please use English as main language
 
