@@ -1,8 +1,8 @@
 ---
 name: New feature
 about: New feature discussion or requesting
-title: '[Feature]: <add some descriptive test about the feature>'
-labels: discuss, new feature
+title: '[Feature]: <add some descriptive text about the feature>'
+labels: new feature
 assignees: gtrabanco
 ---
 <!---
