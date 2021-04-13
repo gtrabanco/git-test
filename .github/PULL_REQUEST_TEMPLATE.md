@@ -1,3 +1,10 @@
+---
+name: New PR for DOTLY
+about: Some new code to add to DOTLY
+title: '[Feature / Fix / Doc]: <Add any descriptive title about the PR>'
+labels: new code, needs triage
+assignees: ''
+---
 <!---
 Please use English as main language
 
@@ -6,6 +13,7 @@ Use prefix by type of change:
 - [Feature]
 - [Fix]
 - [Doc]
+Delete not needed prefix tags in title
 
 Also add [HELP NEEDED] before if you need some∩ help.
 Add also [WIP] before every other prefix if you have task to do or you have proposed task (because work in a team or you desire some help).
