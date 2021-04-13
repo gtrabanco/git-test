@@ -1,10 +1,10 @@
---
+---
 name: Help Needed
 about: Requesting some help using or developing for DOTLY
 title: 'Help Request: <Add any descriptive title about>'
 labels: tracking issue, needs triage
 assignees: gtrabanco
---
+---
 
 # About your problem
 <!-- Mark something only if you consider necessary -->

@@ -1,10 +1,10 @@
---
+---
 name: Report Issue
 about: Reporting an issue
 title: 'Fix: <Add any descriptive title about the issue>'
 labels: tracking issue, needs triage
 assignees: ''
---
+---
 
 # About the issue
 <!-- Mark something only if you consider necessary -->
